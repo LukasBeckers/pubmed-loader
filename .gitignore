@@ -1,0 +1,8 @@
+.git
+**/__pycache__/**
+**/.ipynb_checkpoints/**
+.venv
+data/**
+!/data/.gitkeep
+.idea
+
